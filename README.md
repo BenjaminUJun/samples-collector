@@ -1,1 +1,1 @@
-SDN project samples collector
+SDN project samples collector to collect samples
