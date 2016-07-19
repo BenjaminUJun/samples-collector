@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test for experienced developer and I am not a idiot
+=======
+test for experienced developer and I am not a idiot! and i am very cool
+>>>>>>> ff59030154a010eea238aa6b90ba52ef0b1185ed
