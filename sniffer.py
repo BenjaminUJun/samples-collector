@@ -108,4 +108,4 @@ def insert_samples():
 sched.start()
 
 ip_sniff = IPSniff('eth1', test_incoming_callback, test_outgoing_callback)
-ip_sniff.recv() 
+ip_sniff.recv()  
